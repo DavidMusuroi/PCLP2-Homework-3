@@ -1,3 +1,5 @@
+The following link is related to the homework details : https://gitlab.cs.pub.ro/iocla/tema-3-2025
+
 Task1 - Sortari
 
 esi --> Vectorul de visitati
